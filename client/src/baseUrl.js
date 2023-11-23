@@ -1,3 +1,3 @@
-const baseUrl = "mern-azure-app-on.azurewebsites.net";
+const baseUrl = "http://localhost3001";
 
 export default baseUrl;
